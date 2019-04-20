@@ -1,0 +1,11 @@
+{
+    "files.autoSave":"off",
+    "git.path": "D:/VS code/Git/bin/git.exe",
+    "python.pythonPath": "D:/Anaconda/Anaconda3/python.exe",
+    "[json]": {},
+    "workbench.colorTheme": "Horla",
+    "[python]": {
+        
+    },
+    "[c]": {},
+}
